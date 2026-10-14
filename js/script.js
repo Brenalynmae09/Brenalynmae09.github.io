@@ -33,7 +33,7 @@ const projectsGrid = document.getElementById("projectsGrid");
 
 async function loadProjects() {
   try {
-    const response = await fetch("../data/projects.json");
+    const response = await fetch("data/projects.json");
     if (!response.ok) {
       throw new Error("HTTP status " + response.status);
     }
@@ -102,7 +102,7 @@ async function loadRepos() {
     '<li class="status-message error">GitHub repositories are currently unavailable. Please try again later.</li>';
 
   // Skip the request until a real username is set (avoids a 404 error)
-  if (GITHUB_USERNAME === "YOUR-GITHUB-USERNAME") {
+  if (GITHUB_USERNAME === "Brenalynmae09") {
     repoList.innerHTML =
       '<li class="status-message">Set your GitHub username in js/script.js to show your latest repositories.</li>';
     return;
