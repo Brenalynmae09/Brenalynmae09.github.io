@@ -1,18 +1,16 @@
 [
-  {
+  { "title": "Login Page",
+    "description": "A simple login page that allows users to enter their username and password to access their account. It is design using HTML, CSS and JavaScript",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "role": "Designer and developer",
+    "screenshot": "images/project2.jpg",
+    "link": "https://github.com/Brenalynmae09/Login-Page"
+  }, 
     "title": "Personal Webpage",
     "description": "A simple website that introduce me, my skills, interest and project using HTML, CSS, and JavaScript.",
     "technologies": ["Java", "CSS" , "HTML"],
     "role": "Developer",
     "screenshot": "images/project1.jpg",
     "link": "https://github.com/Brenalynmae09/MaeGonzales.github.io"
-  },
-  {
-    "title": "Login Page",
-    "description": "A simple login page that allows users to enter their username and password to access their account. It is design using HTML, CSS and JavaScript",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Designer and developer",
-    "screenshot": "images/project2.jpg",
-    "link": "https://github.com/Brenalynmae09/Login-Page"
   },
 ]
