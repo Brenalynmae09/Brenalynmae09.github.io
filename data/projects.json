@@ -6,7 +6,7 @@
     "screenshot": "images/project2.jpg",
     "link": "https://github.com/Brenalynmae09/Login-Page"
   }, 
-    "title": "Personal Webpage",
+   { "title": "Personal Webpage",
     "description": "A simple website that introduce me, my skills, interest and project using HTML, CSS, and JavaScript.",
     "technologies": ["Java", "CSS" , "HTML"],
     "role": "Developer",
