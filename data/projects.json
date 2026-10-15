@@ -6,13 +6,5 @@
     "role": "Developer",
     "screenshot": "images/Project1.jpeg",
     "link": "https://brenalynmae09.github.io/Login-Page/"
-  },
-  {
-    "title": "",
-    "description": "A responsive website built with plain HTML, CSS and JavaScript. (Replace with your own description.)",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Designer and developer",
-    "screenshot": "images/project2.jpg",
-    "link": "https://github.com/Brenalynmae09/MaeGonzales.github.io"
   }
 ]
